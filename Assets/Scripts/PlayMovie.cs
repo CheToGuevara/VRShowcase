@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayMovie : MonoBehaviour {
 
+    public GameObject screen;
 	// Use this for initialization
 	void Start () {
 		
@@ -11,13 +12,13 @@ public class PlayMovie : MonoBehaviour {
 
     // Update is called once per frame
    
-    void Update()
+    public void StartMovie()
     {
-        if (Input.GetButtonDown("Jump"))
-        {
+         
 
-            Renderer r = GetComponent<Renderer>();
-            MovieTexture movie = (MovieTexture)r.material.mainTexture;
+            Renderer r = screen.GetComponent<Renderer>();
+        /*MovieTexture movie;
+        movie = (MovieTexture)r.material.mainTexture;
 
             if (movie.isPlaying)
             {
@@ -26,8 +27,8 @@ public class PlayMovie : MonoBehaviour {
             else
             {
                 movie.Play();
-            }
-        }
+            }*/
+        
     }
 
 }

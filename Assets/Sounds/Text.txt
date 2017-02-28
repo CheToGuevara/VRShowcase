@@ -1,0 +1,24 @@
+Positional tracking is very important towards achieving immersion and presence in virtual reality. There are many ways to achieve positional tracking.
+Magnetic tracking relies on measuring the intensity of the magnetic field in various directions.
+Magnetic tracking has been implemented in several products, such as the Razer Hydra.
+On the other hand:
+There are several methods of optical tracking, all using various cameras to obtain positional information.
+A video camera or multiple video cameras constantly seek the markers and then use various algorithms to extract the position of the object from the markers, like Oculus Rift. 
+Another method to achieve tracking is with a depth map camera. A depth map camera, like the Kinect from Microsoft,  use various technologies (structured light, time of flight) to create a real-time map of the distances of the objects from the camera.
+
+
+
+
+
+Virtual reality has beginnings that preceded the time that the concept was coined and formalised.
+Morton Heilig developed the Sensorama (patented 1962) which was an arcade-style theatre cabinet that would stimulate all the senses, not just sight and sound. 
+In 1968 Ivan Sutherland and his student Bob Sproull created the first VR / AR head mounted display (Sword of Damocles) that was connected to a computer and not a camera.
+The Super Cockpit program in 1986 that Tom describes a system where you “put on a magic helmet, magic flight suit, and magic gloves”
+was a prototype visual environment system that was made by NASA at their Ames Research Center. 
+VPL was the first virtual reality where Jaron developed a range of virtual reality gear including the Dataglove.
+Few months ago, Mark Zuckerberg is showing off a new way to interact with the Oculus Rift.
+
+
+It is a good manner, to take a medium distance. Not small or large text. And ever, ever, test it yourself.
+Place the important things in the middle angle to avoid large rotation of the neck!
+Don't move fast the messages. 
